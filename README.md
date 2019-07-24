@@ -1,5 +1,9 @@
 # Lichess-Show-Time-Ratio
 Show time ratio on Lichess
+
+# The original project:
+https://github.com/pukhrajbal/lichess-clock
+
 # A video example
 https://youtu.be/UTmrzH2xOPg
 
