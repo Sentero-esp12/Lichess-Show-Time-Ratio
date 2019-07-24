@@ -10,7 +10,7 @@ https://youtu.be/UTmrzH2xOPg
 
 # How to install
 1. You can use it in Tampermonkey:
-
+https://raw.githubusercontent.com/Sentero-esp12/Lichess-Show-Time-Ratio/master/Tampermonkey%20script
 2. You can install it as an extension (more stable):
 Download the repository --> Unzip it --> Go to Chrome extensions (More tools --> extensions) --> Enable Developer mode --> Load unpacked --> Load the extenision from within its folder.
 
