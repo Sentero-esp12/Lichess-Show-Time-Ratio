@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "time",
+    "description": "time",
+    "version": "0.1",
+    "permissions": [
+        "storage",
+        "clipboardWrite",
+        "clipboardRead"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "http://lichess.org/*",
+                "https://lichess.org/*",
+                "https://lichess.dev/*",
+                "https://lichess.dev/*"
+            ],
+           "js": [
+                "./code.js"                
+            ]
+        }
+    ]
+
+
+}
